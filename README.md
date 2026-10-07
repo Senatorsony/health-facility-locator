@@ -61,4 +61,19 @@ To balance technical execution risk against budget constraints, candidates are e
 
 ## 5. Quick Links & Submission Deliverables
 
+Deliverables Summary:
+a) Fiverr Project Brief: Available as a formatted PDF in the attached documentation and embedded within the GitHub repository README.
+b) Public GitHub Repository & Board: Features 5 granular tasks (TSK-01 to TSK-05) managed across active Kanban workflow columns (Backlog, Ready, In progress, In review, Done).
+c) Google Sheet Tracker: Multi-tab project management dashboard featuring executive KPI cards, automated progress formulas, milestone budget schedules, and API expense monitoring.
+d) Candidate Selection: 5 verified Fiverr candidate profiles matched to specialized engineering roles with technical risk evaluations.
+
+Selected Fiverr Candidate Profiles:
+1. Senior Full-Stack Lead: https://www.fiverr.com/chamindachanaka/create-web-based-inventory-system-for-you-withing-few-days
+2. Mobile App Specialist: https://www.fiverr.com/rustamali750/build-geolocation-tracking-app-and-google-map-location-tracking-mobile-app
+3. Geospatial Backend Engineer: https://www.fiverr.com/aissam_gis
+4. Frontend UI/UX Specialist: https://www.fiverr.com/chamindachanaka/create-web-based-inventory-system-for-you-withing-few-days
+5. MVP Prototype Developer: https://www.fiverr.com/herry_crave/integrate-google-map-api-into-your-website
+
+Warm regards,
+
 * **Project Lead:** Sunny Ogoigbe (Software Project Manager Candidate)
