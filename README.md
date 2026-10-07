@@ -1,6 +1,6 @@
 # health-facility-locator
 Outsourced feature development and project management framework for Health Facility Locator with Google Maps API.
-# Health Facility Locator — Outsourced Feature Development & Project Management Framework
+# Health Facility Locator, Outsourced Feature Development & Project Management Framework
 
 ## Executive Summary & Overview
 This repository serves as the central version control hub and project management showcase for outsourcing the **Health Facility Locator** feature. The initiative integrates the Google Maps API into a web/mobile platform to enable real-time location detection, spatial facility mapping, and multi-attribute search filtering.
